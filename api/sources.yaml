@@ -1,0 +1,52 @@
+closure:
+  anyio: 3.6.2
+  ariadne: 0.17.1
+  graphql-core: 3.2.3
+  idna: "3.4"
+  sniffio: 1.3.0
+  starlette: 0.25.0
+  typing-extensions: 4.5.0
+links:
+  - name: anyio-3.6.2-py3-none-any.whl
+    sha256: 1qsi382l4607lsjz8k8azhqlwa2h2824ap8wxprjwahd4yyk5gpv
+    url: https://files.pythonhosted.org/packages/77/2b/b4c0b7a3f3d61adb1a1e0b78f90a94e2b6162a043880704b7437ef297cad/anyio-3.6.2-py3-none-any.whl
+  - name: anyio-3.6.2.tar.gz
+    sha256: 08bljjq5xq0l9id36q3vvjgygirq7g7q2bs41hdg82p379khvsi5
+    url: https://files.pythonhosted.org/packages/8b/94/6928d4345f2bc1beecbff03325cad43d320717f51ab74ab5a571324f4f5a/anyio-3.6.2.tar.gz
+  - name: ariadne-0.17.1-py3-none-any.whl
+    sha256: 0gdq3aagrh6h17j58hfi3bibxdi8imwn3qlhqscnvgqfwhl0vrb2
+    url: https://files.pythonhosted.org/packages/b8/78/b844925c6c8873929a47560b741dbb9acc6347506b1333726fdf39bd29e2/ariadne-0.17.1-py3-none-any.whl
+  - name: ariadne-0.17.1.tar.gz
+    sha256: 0bxz6q11126m44xzi7lfcz9dkm4v3rab22nhyymfqd34yfbk1pq7
+    url: https://files.pythonhosted.org/packages/55/74/12fb77f7b66c832720048345d25a6dcbf3e658aeb51f77b6a6141291deca/ariadne-0.17.1.tar.gz
+  - name: graphql_core-3.2.3-py3-none-any.whl
+    sha256: 1hrx60zgrfda9zp3mn6xd0w3wwcjvj3z52rz2fxchpmxa827hrjp
+    url: https://files.pythonhosted.org/packages/f8/39/e5143e7ec70939d2076c1165ae9d4a3815597019c4d797b7f959cf778600/graphql_core-3.2.3-py3-none-any.whl
+  - name: graphql-core-3.2.3.tar.gz
+    sha256: 0xk6wizh0sakzjlhkcn17fjmdsa5bhz5v227rfqkagkjmk8amlh6
+    url: https://files.pythonhosted.org/packages/ee/a6/94df9045ca1bac404c7b394094cd06713f63f49c7a4d54d99b773ae81737/graphql-core-3.2.3.tar.gz
+  - name: idna-3.4-py3-none-any.whl
+    sha256: 1hn54ps4kgv2fmyvfaks38sgrvjc1cn4834sh7gadsx3x9wpxdwh
+    url: https://files.pythonhosted.org/packages/fc/34/3030de6f1370931b9dbb4dad48f6ab1015ab1d32447850b9fc94e60097be/idna-3.4-py3-none-any.whl
+  - name: idna-3.4.tar.gz
+    sha256: 1d1cs1in0lmm61sjmlach9qvyq3xm3xcb49vhclx7mzain754kw1
+    url: https://files.pythonhosted.org/packages/8b/e1/43beb3d38dba6cb420cefa297822eac205a277ab43e5ba5d5c46faf96438/idna-3.4.tar.gz
+  - name: sniffio-1.3.0-py3-none-any.whl
+    sha256: 112k8azxisfcwpvx36rpgisxf15lxv0zgaza5snvggsv3v7gvkpf
+    url: https://files.pythonhosted.org/packages/c3/a0/5dba8ed157b0136607c7f2151db695885606968d1fae123dc3391e0cfdbf/sniffio-1.3.0-py3-none-any.whl
+  - name: sniffio-1.3.0.tar.gz
+    sha256: 00cibg2madxg6j912qwpwkgggn1km8mg5dsrj8wga56kwp2ha0z6
+    url: https://files.pythonhosted.org/packages/cd/50/d49c388cae4ec10e8109b1b833fd265511840706808576df3ada99ecb0ac/sniffio-1.3.0.tar.gz
+  - name: starlette-0.25.0-py3-none-any.whl
+    sha256: 0a46rcmbwp15yk0alp641b8pj6daq8wysggvnswr9m9zk3qiskvp
+    url: https://files.pythonhosted.org/packages/b0/56/e7e16e133428ce19ff429d3d71aa7114048730385eea7d0985df5cf9aed6/starlette-0.25.0-py3-none-any.whl
+  - name: starlette-0.25.0.tar.gz
+    sha256: 0g6v9kz9apnyiycg8g3wgr4vm73cqzr02y5hpp12ki1n6zkp2k45
+    url: https://files.pythonhosted.org/packages/3b/89/f873d6392441a8be9bcbc0abbc92aa73849879e72565331bd9b54cfb8675/starlette-0.25.0.tar.gz
+  - name: typing_extensions-4.5.0-py3-none-any.whl
+    sha256: 1d0ijp0h547p1zg34jpx03fyxcx8jg1fnc8ldp0qm6fx75f0hczv
+    url: https://files.pythonhosted.org/packages/31/25/5abcd82372d3d4a3932e1fa8c3dbf9efac10cc7c0d16e78467460571b404/typing_extensions-4.5.0-py3-none-any.whl
+  - name: typing_extensions-4.5.0.tar.gz
+    sha256: 1jx7ki3sji60v7h2805b2phq9ynsvshj5xiygdh9kmirj6kz9daw
+    url: https://files.pythonhosted.org/packages/d3/20/06270dac7316220643c32ae61694e451c98f8caf4c8eab3aa80a2bedf0df/typing_extensions-4.5.0.tar.gz
+python: "3.11"
